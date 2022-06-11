@@ -38,6 +38,15 @@ I'm
 * Windows OS
 * VS Code, Webstorm
 
+**Code Examples**
+-----------------
+
+``` 
+function multiply (a,b) {
+return a*b
+}
+```
+
 **Education**
 -------------
 Specialist degree, Tajik State University of Law, Business and Politics
