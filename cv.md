@@ -1,7 +1,7 @@
 Bakhtiyor Ochilov
 ==================
 
-My Contact Info
+**My Contact Info**
 ------------------
 
 * **Adress:** Putevoy Proezd 12, Moscow, Russia
@@ -15,7 +15,7 @@ My Contact Info
 * **GitHub:** https://github.com/BakhTeeYour
 
 **About Myself**
---------------
+----------------
 I'm 
 * dependable, 
 * а quick learner, 
@@ -26,7 +26,7 @@ I'm
 * well-organized person. I never afraid to start or try something new. I always tell to myself "Always worth to try". I'm kinda person, who loves to challange and to learn something new. My main aim is to find myself in this life. 
 
 **Skills**
-------
+----------
 * JavaScript (Basic knowledge)
 * HTML5
 * CSS
@@ -35,13 +35,13 @@ I'm
 * Windows OS
 * VS Code, Webstorm
 
-Education
----------
+**Education**
+-------------
 Specialist degree, Tajik State University of Law, Business and Politics
 * Faculty of Law
 
-Languages
----------
+**Languages**
+-------------
 * Russian (Advanced)
 * English (Advanced)
 * Tajik (Native)
