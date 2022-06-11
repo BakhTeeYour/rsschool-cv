@@ -1,5 +1,7 @@
-Bakhtiyor Ochilov
-==================
+# Bakhtiyor Ochilov
+
+Junior Frontend Developer
+***
 
 **My Contact Info**
 ------------------
